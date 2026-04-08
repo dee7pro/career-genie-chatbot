@@ -1,0 +1,305 @@
+2026-04-07 12:17:58,651 - INFO - User: How do I start a career as an AI Research Engineer?”
+2026-04-07 12:17:58,652 - INFO - Bot: Focus on mastering advanced Machine Learning, Deep Learning, and mathematical fundamentals, typically pursued through a Master's or Ph.D. in AI/CS. Actively seek AI research internships at universities or leading tech companies, contributing to projects and open-source work to build a strong research portfolio.
+2026-04-07 12:18:30,993 - ERROR - 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 29.286623842s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 29
+}
+]
+2026-04-07 12:19:01,172 - ERROR - 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 59.075626209s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 59
+}
+]
+2026-04-07 12:34:15,763 - INFO - User: hey
+2026-04-07 12:34:15,764 - INFO - Bot: Hello! As a Generative AI Career Advisor, I can help you navigate internships, essential skills, or a career roadmap. What specific aspect would you like to discuss first?
+2026-04-07 12:44:01,565 - INFO - User: Hey
+2026-04-07 12:44:01,567 - INFO - Bot: To launch your Generative AI career, secure internships focusing on LLMs/diffusion models and master Python, PyTorch/TensorFlow, and prompt engineering. Your roadmap should include building a robust project portfolio and continuous learning in cutting-edge GenAI research.
+2026-04-07 12:44:20,405 - INFO - User: hey
+2026-04-07 12:44:20,406 - INFO - Bot: Welcome back! What specific aspect of Generative AI internships, skills, or your career roadmap would you like to explore further today?
+2026-04-07 12:44:29,629 - INFO - User: hey
+2026-04-07 12:44:29,630 - INFO - Bot: Hello! As your AI Career Advisor specializing in Generative AI, I'm here to help you navigate internships, essential skills, and a clear career roadmap in this exciting field. Please tell me what specific questions you have.
+2026-04-07 12:47:46,105 - INFO - User: hwy
+2026-04-07 12:47:46,106 - INFO - Bot: Secure internships in ML engineering or AI research focusing on generative models. Master Python, deep learning frameworks (PyTorch/TensorFlow), and practical skills in fine-tuning and deploying models like LLMs or diffusion models, showcasing projects in a robust portfolio.
+2026-04-07 12:47:49,925 - INFO - User: hey
+2026-04-07 12:47:49,925 - INFO - Bot: Hello! How can I assist you today regarding your career path in Generative AI? Feel free to ask about internships, essential skills, or a tailored roadmap.
+2026-04-07 12:55:25,985 - INFO - User: hey
+2026-04-07 12:55:25,986 - INFO - Bot: Hello! To give you precise advice for a Generative AI career, please tell me what specific area you're interested in or what your current background is. This will help me recommend relevant internships, skills, and a tailored roadmap.
+2026-04-07 13:00:10,316 - INFO - User: hey
+2026-04-07 13:00:10,318 - INFO - Bot: Hello! As your Generative AI Career Advisor, I'm ready to help you navigate this exciting field. To get started, please tell me your primary focus: are you interested in internships, skill development, or a career roadmap?
+2026-04-07 13:16:10,045 - INFO - User: hey
+2026-04-07 13:16:10,045 - INFO - Bot: Hello! As your Generative AI Career Advisor, how can I precisely guide you today on internships, essential skills, or your career roadmap?
+2026-04-07 13:20:07,031 - INFO - User: hey
+2026-04-07 13:20:07,032 - INFO - Bot: Hello! To kickstart your Generative AI career, prioritize mastering Python, deep learning frameworks (PyTorch/TensorFlow), and foundational NLP/CV skills. Build a portfolio of generative projects to demonstrate your abilities, which is key for securing internships and defining your roadmap.
+2026-04-07 13:50:03,725 - INFO - User: hey
+2026-04-07 13:50:03,726 - INFO - Bot: Hello! As your Generative AI Career Advisor, I'm here to help you navigate internships, essential skills, and a clear career roadmap in this exciting field. What specific aspect are you looking to explore first?
+2026-04-07 13:51:32,917 - INFO - User: hey
+2026-04-07 13:51:32,919 - INFO - Bot: Hello! I'm your Generative AI Career Advisor, here to guide you on internships, crucial skills, and your career roadmap in this field. What specific advice are you seeking today to build or advance your Generative AI career?
+2026-04-07 13:52:22,783 - INFO - User: which career path should i choose ml engineer or ai engineer?
+2026-04-07 13:52:22,784 - INFO - Bot: Choose AI Engineer if you're drawn to *designing and optimizing novel Generative AI models*; opt for ML Engineer if your passion is *deploying and scaling these models reliably* in production. Both paths demand strong deep learning, Python, and MLOps skills; seek internships offering hands-on experience with either model creation or system integration.
+2026-04-07 13:56:14,941 - INFO - User: hey
+2026-04-07 13:56:14,942 - INFO - Bot: Hello! To give you precise advice on internships, skills, and your roadmap in Generative AI, please tell me what kind of roles you're interested in and your current experience level.
+2026-04-07 13:56:29,169 - INFO - User: ml engineer or al engineer
+2026-04-07 13:56:29,170 - INFO - Bot: For ML/AI Engineer roles in Generative AI, seek internships focused on fine-tuning, deploying, or developing models like LLMs/diffusion models, emphasizing practical application. Master Python, PyTorch/TensorFlow, Transformers, prompt engineering, and MLOps, building a portfolio of generative projects.
+2026-04-07 13:58:32,757 - INFO - User: hey
+2026-04-07 13:58:32,759 - INFO - Bot: Ready to discuss your Generative AI career? Please tell me about your internship goals, desired skills, or what roadmap advice you're seeking.
+2026-04-07 13:59:23,075 - INFO - User: ml vs ai engineer
+2026-04-07 13:59:23,076 - INFO - Bot: ML Engineers specialize in building, training, and optimizing Generative AI models, requiring deep expertise in model architectures, data pipelines, and performance. AI Engineers typically integrate these models into larger applications, focusing on system design, prompt engineering, API integration, and deployment to create end-to-end GenAI solutions.
+2026-04-07 14:03:57,257 - ERROR - 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 2.99280685s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 2
+}
+]
+2026-04-07 14:05:49,556 - ERROR - 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 10.701303797s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 10
+}
+]
+2026-04-07 14:07:06,346 - ERROR - 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 53.903938408s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 53
+}
+]
+2026-04-07 14:08:18,276 - ERROR - 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 42.003754499s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 42
+}
+]
+2026-04-07 14:10:15,780 - ERROR - 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-04-07 14:12:05,158 - ERROR - 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-04-07 14:13:11,606 - ERROR - 404 models/gemini-3-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-04-07 14:21:53,434 - ERROR - 404 models/gemini-3-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-04-07 14:22:30,487 - ERROR - 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 29.847767145s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 29
+}
+]
+2026-04-07 14:22:51,291 - ERROR - 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 8.995037561s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 8
+}
+]
+2026-04-07 14:26:12,314 - ERROR - 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 47.923285081s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 47
+}
+]
+2026-04-07 14:29:36,017 - ERROR - 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 24.231976601s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 24
+}
+]
+2026-04-08 08:41:34,239 - INFO - User: hey
+2026-04-08 08:41:34,239 - INFO - Bot: Hello! As your AI Career Advisor for Generative AI, I'm here to help you navigate internships, essential skills, and your career roadmap. What specific aspects would you like to explore first?
+2026-04-08 08:42:52,131 - ERROR - 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 8.122234516s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 8
+}
+]
+2026-04-08 08:43:43,240 - ERROR - 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-04-08 08:44:39,802 - ERROR - 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-04-08 08:47:44,249 - INFO - User: hey
+2026-04-08 08:47:44,250 - INFO - Bot: To break into Generative AI, master Python and the OpenAI/Anthropic APIs while building a portfolio of RAG-based applications on GitHub. For internships, target AI-first startups by showcasing your ability to fine-tune open-source models or implement complex agentic workflows.
+2026-04-08 08:49:11,915 - INFO - User: hey
+2026-04-08 08:49:11,917 - INFO - Bot: Hello! I can help you land Generative AI internships by building a roadmap focused on Python, LLM orchestration frameworks like LangChain, and RAG architecture. Please share your current background so we can identify the specific technical skills and projects you need to stand out to recruiters.
+2026-04-08 08:49:32,159 - INFO - User: What is the difference between learning theory vs building projects in AI?
+2026-04-08 08:49:32,160 - INFO - Bot: Theory provides the mathematical foundation to debug and optimize models, while projects demonstrate your ability to ship functional GenAI applications using tools like LangChain and Pinecone. For your career roadmap, balance deep-diving into transformer architecture with building a portfolio of RAG-based systems to prove job readiness to recruiters.
+2026-04-08 08:51:11,414 - INFO - User: Give me a structured list of the most important AI/ML interview questions, categorized into theory, coding, and system design, with brief model answers.
+2026-04-08 08:51:11,415 - INFO - Bot: Focus your preparation on Transformer architecture (Theory), Python/PyTorch implementations of attention mechanisms (Coding), and scaling RAG pipelines using vector databases (System Design). I recommend mastering the trade-offs between fine-tuning and RAG, as this is currently the most critical technical decision-making question in GenAI internship interviews.
