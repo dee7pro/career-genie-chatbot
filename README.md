@@ -1,7 +1,7 @@
 # Career Genie — Production Ready GenAI Chatbot
 
 🚀 **Career Genie** is a Generative AI-powered chatbot designed to guide students and professionals in AI careers. Get personalized advice on internships, skill-building, job search strategies, and roadmap planning — all in one chat interface.  
-
+### Streamlit :https://career-genie-chatbot.streamlit.app/
 <p align="center">
 <img width="300" src="https://github.com/dee7pro/career-genie-chatbot/blob/d752e35aee90b401e28b799587654ce5ec70b0a7/assets/title_1.png" alt="CareerGenie Logo" width="150">
 
