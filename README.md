@@ -1,20 +1,21 @@
-# Career Genie — Production-Ready GenAI Chatbot
+# Career Genie — Production Ready GenAI Chatbot
 
 🚀 **Career Genie** is a Generative AI-powered chatbot designed to guide students and professionals in AI careers. Get personalized advice on internships, skill-building, job search strategies, and roadmap planning — all in one chat interface.  
 
----
+<p align="center">
+<img width="300" src="https://github.com/dee7pro/career-genie-chatbot/blob/d752e35aee90b401e28b799587654ce5ec70b0a7/assets/title_1.png" alt="CareerGenie Logo" width="150">
 
-## Screenshots
+## 🚀 Demo
+## App Screenshots
 
 <div style="display:flex; gap:10px; flex-wrap:wrap;">
-  <img width="300" alt="Screenshot 1" src="" />
-  <img width="300" alt="Screenshot 2" src="" />
-  <img width="300" alt="Screenshot 3" src="" />
+  <img width="400" alt="Screenshot 1" src="https://github.com/dee7pro/career-genie-chatbot/blob/d752e35aee90b401e28b799587654ce5ec70b0a7/assets/im_1.png" ;/>
+  <img width="400" alt="Screenshot 2" src="https://github.com/dee7pro/career-genie-chatbot/blob/d752e35aee90b401e28b799587654ce5ec70b0a7/assets/im_2.png" />
 </div>
 
 ---
 
-## Features
+## ✨ Features
 
 - 💬 AI-powered career advisor specializing in Generative AI  
 - 📝 Personalized advice on internships, skills, and career roadmap  
@@ -34,7 +35,7 @@
 
 --- 
 
-## Installation
+## ⚙️ Installation
 
 **1. Clone the repository**
 
@@ -67,13 +68,55 @@ gemini_class = your_gemini_api_key_here
 streamlit run app.py
 
 ```
+## 📁 Project Structure
+
+```
+genai-chatbot/
+│
+├── app.py                  # Streamlit UI
+├── requirements.txt
+├── .env                    # API keys (not in GitHub)
+├── README.md
+│
+├── config/
+│   └── settings.py
+│
+├── backend/
+│   ├── chatbot.py          # main logic
+│   ├── memory.py           # conversation handling
+│   ├── prompts.py          # prompt templates
+│   ├── gemini_client.py    # API integration
+│   └── logger.py
+├── ui/                       # Frontend UI components
+│   ├── chat_ui.py            # Chat display functions
+│   └── avatars/              # User & bot avatars
+│       ├── gemini_bot.png
+│       └── trophy.png
+├── assets/                   # Project images & screenshots
+│   ├── title_1.png
+│   ├── im_1.png
+│   ├── im_2.png
+│
+├── logs/
+│   └── app.log
+```
+
+---
+
+## 🔑 Environment Variables
+
+| Variable | Description |
+|---|---|
+| `gemini_class` | Gemini API key  |
+
+---
 
 ## Sidebar Features
 
 - Select topics: Resume Tips, AI Internships, Interview Prep, Job Search Strategies
 - Reset chat button to start a new session
 
----
+
 
 ## Example Questions for Career Genie
 
@@ -82,3 +125,10 @@ streamlit run app.py
 - What roadmap should I follow to become a prompt engineering expert?
 - How to prepare for AI job interviews?
 - Which online resources or certifications are most valuable in 2026?
+
+## 👨‍💻 Author
+
+**Deepika A** — Gen AI Engineer  
+
+## License
+MIT License © 2026 dee7pro
